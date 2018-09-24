@@ -1,11 +1,16 @@
 _repo: Poisonous-Snakes-of-Texas-and-First-Aid-Treatment-of-Their-Bites-Bulletin-No-31_56021
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 56021-h/images/cover.jpg
 creator:
   author:
     agent_name: Werler, John E.
     gutenberg_agent_id: '48633'
     url: http://www.gutenberg.org/2009/agents/48633
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56021#Poisonous-Snakes-of-Texas-and-First-Aid-Treatment-of-Their-Bites-Bulletin-No-31
 gutenberg_issued: '2017-11-21'
 gutenberg_type: Text
 identifiers:
